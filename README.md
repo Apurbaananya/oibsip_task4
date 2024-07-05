@@ -55,3 +55,6 @@ In the realm of email communication, battling spam messages is a persistent chal
 This project demonstrated that machine learning, combined with effective feature engineering and model selection, is a powerful tool in the ongoing battle against email spam. By implementing this spam detection system, we have taken a significant step towards reducing the impact of spam messages on email users.
 
 Our successful implementation has made email inboxes safer, and as we conclude this project, we look forward to continued improvements and innovations in email security. Let’s keep our inboxes spam-free and our communications secure.
+
+## Reference
+[Oasis Infobyte](https://oasisinfobyte.com/)
