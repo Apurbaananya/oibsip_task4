@@ -11,7 +11,7 @@ Image courtesy : https://eclipse-online.com/news/6-ways-to-handle-email-spam-jun
 
 Email spam, or junk mail, is a persistent problem that floods inboxes with unsolicited and often malicious content, including cryptic messages, scams, and phishing attempts. During our engaging data science internship at Oasis Infobyte, we undertook the task of creating an effective email spam detection system using Python and machine learning.
 
-**Project Objectives:**
+**Objectives:**
 
 - **Data Preprocessing:** Start by cleaning a large email dataset, handling missing values, and converting text data into a machine learning-friendly format.
 - **Email Feature Engineering:** Focus on unique email features like sender address, recipient list, subject line, and email body to create meaningful inputs for the spam detection model.
@@ -23,3 +23,5 @@ Email spam, or junk mail, is a persistent problem that floods inboxes with unsol
 - **Ethical Considerations:** Address privacy and data security concerns, ensuring sensitive handling of email content and sender identities.
 - **Challenges and Future Work:** Identify challenges in spam detection, such as spammers' evasive techniques, and propose future research and improvements.
 This project highlights the power of machine learning in solving real-world issues and promises a future where spam emails no longer plague our inboxes.
+
+## Project Summary
